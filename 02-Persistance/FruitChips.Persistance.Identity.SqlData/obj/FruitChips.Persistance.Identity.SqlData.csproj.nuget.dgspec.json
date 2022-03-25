@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\02-Persistance\\FruitChips.Persistance.Identity.SqlData\\FruitChips.Persistance.Identity.SqlData.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\00-Utilities\\Core.Domain\\Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\00-Utilities\\Core.Domain\\Core.Domain.csproj",
+        "projectName": "Core.Domain",
+        "projectPath": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\00-Utilities\\Core.Domain\\Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\00-Utilities\\Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Component\\Offline": {},
+          "E:\\MyProject\\AutoPark": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\01-Core\\FruitChips.Core.Domain\\FruitChips.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\01-Core\\FruitChips.Core.Domain\\FruitChips.Core.Domain.csproj",
+        "projectName": "FruitChips.Core.Domain",
+        "projectPath": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\01-Core\\FruitChips.Core.Domain\\FruitChips.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\01-Core\\FruitChips.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Component\\Offline": {},
+          "E:\\MyProject\\AutoPark": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\00-Utilities\\Core.Domain\\Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\00-Utilities\\Core.Domain\\Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\02-Persistance\\FruitChips.Persistance.Identity.SqlData\\FruitChips.Persistance.Identity.SqlData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\02-Persistance\\FruitChips.Persistance.Identity.SqlData\\FruitChips.Persistance.Identity.SqlData.csproj",
+        "projectName": "FruitChips.Persistance.Identity.SqlData",
+        "projectPath": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\02-Persistance\\FruitChips.Persistance.Identity.SqlData\\FruitChips.Persistance.Identity.SqlData.csproj",
+        "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\02-Persistance\\FruitChips.Persistance.Identity.SqlData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Component\\Offline": {},
+          "E:\\MyProject\\AutoPark": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\01-Core\\FruitChips.Core.Domain\\FruitChips.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mostafa\\Dropbox\\FruitChips\\01-Core\\FruitChips.Core.Domain\\FruitChips.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

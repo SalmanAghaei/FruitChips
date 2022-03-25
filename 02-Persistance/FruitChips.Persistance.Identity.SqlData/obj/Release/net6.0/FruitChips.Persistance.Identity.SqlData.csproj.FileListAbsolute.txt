@@ -1,0 +1,17 @@
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\bin\Release\net6.0\FruitChips.Persistance.Identity.SqlData.deps.json
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\bin\Release\net6.0\FruitChips.Persistance.Identity.SqlData.dll
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\bin\Release\net6.0\FruitChips.Persistance.Identity.SqlData.pdb
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\bin\Release\net6.0\Core.Domain.dll
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\bin\Release\net6.0\FruitChips.Core.Domain.dll
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\bin\Release\net6.0\FruitChips.Core.Domain.pdb
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\bin\Release\net6.0\Core.Domain.pdb
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\FruitChips.Persistance.Identity.SqlData.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\FruitChips.Persistance.Identity.SqlData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\FruitChips.Persistance.Identity.SqlData.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\FruitChips.Persistance.Identity.SqlData.AssemblyInfo.cs
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\FruitChips.Persistance.Identity.SqlData.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\FruitChips.Persistance.Identity.SqlData.csproj.CopyComplete
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\FruitChips.Persistance.Identity.SqlData.dll
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\refint\FruitChips.Persistance.Identity.SqlData.dll
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\FruitChips.Persistance.Identity.SqlData.pdb
+C:\Users\Mostafa\Dropbox\FruitChips\02-Persistance\FruitChips.Persistance.Identity.SqlData\obj\Release\net6.0\ref\FruitChips.Persistance.Identity.SqlData.dll
