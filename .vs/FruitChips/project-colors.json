@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c5fd5a1-ee93-4302-b9d7-96ce97d586d9": {
+      "ProjectGuid": "0c5fd5a1-ee93-4302-b9d7-96ce97d586d9",
+      "DisplayName": "FruitChips",
+      "ColorIndex": 0
+    },
+    "5a37e91a-0f30-458e-8aed-b18e1c774104": {
+      "ProjectGuid": "5a37e91a-0f30-458e-8aed-b18e1c774104",
+      "DisplayName": "FruitChips.Core.Domain",
+      "ColorIndex": 1
+    },
+    "a732d2b0-1f8f-4739-b0d4-acbc19dff472": {
+      "ProjectGuid": "a732d2b0-1f8f-4739-b0d4-acbc19dff472",
+      "DisplayName": "FruitChips.Core.Application",
+      "ColorIndex": 2
+    },
+    "23013400-7e0f-43eb-b954-3467a697a877": {
+      "ProjectGuid": "23013400-7e0f-43eb-b954-3467a697a877",
+      "DisplayName": "FruitChips.Persistance.SqlData",
+      "ColorIndex": 3
+    },
+    "4263c6e3-67a4-4a2f-8db5-a3ff2f0d994a": {
+      "ProjectGuid": "4263c6e3-67a4-4a2f-8db5-a3ff2f0d994a",
+      "DisplayName": "FruitChips.Presentation.Api",
+      "ColorIndex": 4
+    },
+    "24c2bba3-e7c5-477b-b9d7-b8890f292633": {
+      "ProjectGuid": "24c2bba3-e7c5-477b-b9d7-b8890f292633",
+      "DisplayName": "Core.Domain",
+      "ColorIndex": 5
+    },
+    "70c36857-fff2-43de-a4f3-6c32ce2ebc41": {
+      "ProjectGuid": "70c36857-fff2-43de-a4f3-6c32ce2ebc41",
+      "DisplayName": "Core.Application",
+      "ColorIndex": 6
+    },
+    "b6bd9b73-446a-4e64-8a18-5e1d45e82048": {
+      "ProjectGuid": "b6bd9b73-446a-4e64-8a18-5e1d45e82048",
+      "DisplayName": "Presentation.Api",
+      "ColorIndex": 7
+    },
+    "4e99fe28-a83d-4cd0-902b-fc259e307f1f": {
+      "ProjectGuid": "4e99fe28-a83d-4cd0-902b-fc259e307f1f",
+      "DisplayName": "Persistance.SqlData",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "dd52fad8-57bb-452c-92a0-5b551c2e1d20": {
+      "ProjectGuid": "dd52fad8-57bb-452c-92a0-5b551c2e1d20",
+      "DisplayName": "FruitChips.Persistance.Identity.SqlData",
+      "ColorIndex": 9
+    },
+    "fe1f0732-3439-47ff-bb82-a8247f955ef2": {
+      "ProjectGuid": "fe1f0732-3439-47ff-bb82-a8247f955ef2",
+      "DisplayName": "FruitChips.Core.Contracts",
+      "ColorIndex": 10
+    },
+    "90ce28cc-4615-4728-9310-3dc69c552c8b": {
+      "ProjectGuid": "90ce28cc-4615-4728-9310-3dc69c552c8b",
+      "DisplayName": "Utilities",
+      "ColorIndex": 11
+    },
+    "c54ce6eb-da26-4279-9718-c17c1909072e": {
+      "ProjectGuid": "c54ce6eb-da26-4279-9718-c17c1909072e",
+      "DisplayName": "Core.Contracts",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}
